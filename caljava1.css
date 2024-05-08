@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+}
+.h33{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+ margin: 5px;
+}
+#Calculator{
+    border: 1px solid black ;
+    width: 300px;
+    background-color: rgb(210, 230, 230);
+    /* height: 50px; */
+}
+
+#display{
+   margin: 10px;
+   width:85% ;
+   font-size: 27px;
+}
+
+.calbtn{
+    height: 45px;
+    width: 56px;
+    background-color: rgb(232, 239, 241);
+    
+   
+}
+
+.btndiv{
+    display: flex;
+    justify-content: center;
+    margin: 49px;
+    flex-wrap: wrap;
+
+
+
+}
